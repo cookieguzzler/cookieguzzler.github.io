@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://cookieguzzler.github.io/sitemap.xml
